@@ -189,6 +189,10 @@ nav ul li a:hover {
   z-index: 100;
 }
 
+.intoro{
+  margin-bottom: 100px;
+}
+
 
 /*index_work*/
 
@@ -453,6 +457,7 @@ li[name="fin"] {
   max-width: 300px;
   width: 90%;
 }
+
 
 /* ポップアップウインドウの設定 */
 .popup {
